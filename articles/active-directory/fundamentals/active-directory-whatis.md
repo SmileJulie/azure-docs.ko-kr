@@ -39,18 +39,18 @@ Azure AD의 대상은 다음과 같습니다.
 
 ## <a name="what-are-the-azure-ad-licenses"></a>Azure AD 라이선스란?
 
-Office 365 또는 Microsoft Azure 같은 Microsoft Online 비즈니스 서비스는 로그인 및 ID 보호를 위해 Azure AD가 필요합니다. Microsoft Online 비즈니스 서비스를 구독하는 경우 모든 무료 기능을 사용할 수 있는 Azure AD가 자동으로 제공됩니다.
+Office 365 또는 Microsoft Azure 같은 Microsoft Online 비즈니스 서비스는 로그인 및 ID 보호를 위해 Azure AD가 필요합니다. Microsoft Online 비즈니스 서비스를 구독하고 있는 경우라면, 모든 무료 기능에 액세스할 수 있는 Azure AD가 자동으로 제공됩니다.
 
-Azure AD 구현을 향상하기 위해 Azure Active Directory Basic, Premium P1 또는 Premium P2 라이선스로 업그레이드하여 유료 기능을 추가할 수도 있습니다. Azure AD 유료 라이선스는 기존 무료 디렉터리 위에 빌드되며, 돌아다니면서 일하는 직원에게 셀프 서비스, 향상된 모니터링, 보안 보고 및 보안 액세스를 제공합니다.
+Azure AD 구현을 향상하기 위해 Azure Active Directory Basic, Premium P1 또는 Premium P2 라이선스로 업그레이드하여 유료 기능을 추가할 수도 있습니다. Azure AD 유료 라이선스는 기존 무료 디렉터리 위에 빌드되며, 이동하며 일하는 직원에게 셀프 서비스, 향상된 모니터링, 보안 보고서 및 보안된 액세스를 제공합니다.
 
 >[!Note]
 >이러한 라이선스의 가격 책정 옵션은 [Azure Active Directory 가격 책정](https://azure.microsoft.com/pricing/details/active-directory/)을 참조하세요.
 >
->Azure Active Directory Premium P1, Premium P2 및 Azure Active Directory Basic은 중국에서 현재 지원되지 않습니다. Azure AD 가격 책정에 대한 자세한 내용은 [Azure Active Directory 포럼](https://azure.microsoft.com/support/community/?product=active-directory)에 문의하세요.
+>Azure Active Directory Premium P1, Premium P2 및 Azure Active Directory Basic은 현재 중국에서는 지원되지 않습니다. Azure AD 가격 책정에 대한 자세한 내용은 [Azure Active Directory 포럼](https://azure.microsoft.com/support/community/?product=active-directory)에 문의하세요.
 
 - **Azure Active Directory Free.** Azure, Office 365 및 여러 인기 SaaS 앱에 사용자 및 그룹 관리, 온-프레미스 디렉터리 동기화, 기본 보고서, 클라우드 사용자를 위한 셀프 서비스 암호 변경 및 Single Sign-On을 제공합니다.
 
-- **Azure Active Directory Basic.** Basic은 Free 기능 외에도 클라우드 중심 앱 액세스, 그룹 기반 액세스 관리, 클라우드 앱을 위한 셀프 서비스 암호 재설정 및 Azure AD를 사용하여 온-프레미스 웹앱을 게시할 수 있는 Azure AD 애플리케이션 프록시를 제공합니다.
+- **Azure Active Directory Basic.** Basic은 Free로 제공되는 기능 외에도 클라우드 중심 앱 액세스, 그룹 기반 액세스 관리, 클라우드 앱을 위한 셀프 서비스 암호 재설정 및 Azure AD를 사용하여 온-프레미스 웹앱을 게시할 수 있는 Azure AD 애플리케이션 프록시를 제공합니다.
 
 - **Azure Active Directory Premium P1.** P1은 Free 및 Basic 기능 외에도 하이브리드 사용자에게 온-프레미스 및 클라우드 리소스에 대한 액세스를 제공합니다. 또한 온-프레미스 사용자에 대한 셀프 서비스 암호 재설정을 허용하는 동적 그룹, 셀프 서비스 그룹 관리, Microsoft Identity Manager(온-프레미스 ID 및 액세스 관리 도구 모음), 클라우드 쓰기 저장 기능 등의 고급 관리를 지원합니다.
 
